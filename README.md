@@ -1,0 +1,1 @@
+This repo was created for GitHub's Hello World exercise, which teaches you the basics of using Git, the version control system, on the GitHub platform. This exercise is an assignment for computer and data science courses at Lyon College, Batesville AR, since fall 2024.
